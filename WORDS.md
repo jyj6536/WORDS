@@ -7,11 +7,13 @@
 3. appreciate
 4. approximation
 5. appeal
+6. albeit
 
 ## B
 
 1. bankrupt
 1. bullion
+1. board
 
 ## C
 
@@ -32,6 +34,8 @@
 4. domestic
 5. debate
 6. degenerate
+7. deduction
+8. disintegrate
 
 ## E
 
@@ -45,6 +49,7 @@
 
 1. faction
 2. fiat
+3. frenzy
 
 ## G
 
@@ -98,6 +103,10 @@
 
 7. permanent
 
+8. propel
+
+9. parabolic
+
 ## Q
 
 ## R
@@ -118,6 +127,12 @@
 
 6. sensitivity
 
+7. squander
+
+8. speculator
+
+9. skeptical
+
 ## T
 
 1. tackle
@@ -132,6 +147,8 @@
 3. violation
 
 ## W
+
+1. wobble
 
 ## X
 
