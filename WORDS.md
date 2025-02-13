@@ -8,12 +8,16 @@
 4. approximation
 5. appeal
 6. albeit
+7. aggressive
+8. allegedly
 
 ## B
 
 1. bankrupt
 1. bullion
 1. board
+1. bureaucrat
+1. bureaucracy
 
 ## C
 
@@ -25,6 +29,7 @@
 6. contingent
 7. credibility
 8. corrupt
+9. catastrophic
 
 ## D
 
@@ -36,6 +41,7 @@
 6. degenerate
 7. deduction
 8. disintegrate
+9. dysfunctional
 
 ## E
 
@@ -56,6 +62,8 @@
 1. gorgeous
 1. governor
 1. gasket
+1. goofy
+1. grinding
 
 ## H
 
@@ -75,17 +83,22 @@
 
 ## L
 
+1. livestock
+2. lobotomy
+
 ## M
 
 1. mandatory
-
 2. mandate
-
 3. majestic
+4. mismanagement
+5. March
 
 ## N
 
 ## O
+
+1. omniscient
 
 ## P
 
@@ -112,6 +125,8 @@
 ## R
 
 1. repeal
+1. relief
+1. reluctant
 
 ## S
 
@@ -137,6 +152,8 @@
 
 1. tackle
 1. tinder
+1. turn on
+1. take over
 
 ## U
 
