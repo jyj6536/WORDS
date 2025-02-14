@@ -18,6 +18,7 @@
 1. board
 1. bureaucrat
 1. bureaucracy
+1. brink
 
 ## C
 
@@ -30,6 +31,9 @@
 7. credibility
 8. corrupt
 9. catastrophic
+10. cynicism
+11. caveat
+12. criterion
 
 ## D
 
@@ -51,6 +55,8 @@
 
 3. exempt
 
+4. euro
+
 ## F
 
 1. faction
@@ -68,6 +74,7 @@
 ## H
 
 1. hilarious
+1. historic
 
 ## I
 
@@ -76,6 +83,8 @@
 2. incentive
 
 3. implode
+
+4. intrinsic
 
 ## J
 
