@@ -10,6 +10,10 @@
 6. albeit
 7. aggressive
 8. allegedly
+9. anticipate
+10. abolish
+11. age
+12. apologist
 
 ## B
 
@@ -34,6 +38,12 @@
 10. cynicism
 11. caveat
 12. criterion
+13. coil
+14. constant
+15. coincidence
+16. cumulative
+17. curb
+18. cocktail
 
 ## D
 
@@ -46,6 +56,12 @@
 7. deduction
 8. disintegrate
 9. dysfunctional
+10. devastate
+11. deteriorate
+12. debasement
+13. deterioration
+14. dismantle
+15. dsiperse
 
 ## E
 
@@ -57,11 +73,18 @@
 
 4. euro
 
+5. effete
+
+6. ecstatic
+
 ## F
 
 1. faction
 2. fiat
 3. frenzy
+4. finalize
+5. firebrand
+6. fluctuate
 
 ## G
 
@@ -75,6 +98,7 @@
 
 1. hilarious
 1. historic
+1. haywire
 
 ## I
 
@@ -85,6 +109,8 @@
 3. implode
 
 4. intrinsic
+
+5. ignite
 
 ## J
 
@@ -102,12 +128,15 @@
 3. majestic
 4. mismanagement
 5. March
+6. momentum
+7. moderation
 
 ## N
 
 ## O
 
 1. omniscient
+1. oblivion
 
 ## P
 
@@ -129,6 +158,22 @@
 
 9. parabolic
 
+10. pitch
+
+11. position
+
+12. paramount
+
+13. populism
+
+14. pupulist
+
+15. pull off
+
+16. pendulum
+
+17. progressive
+
 ## Q
 
 ## R
@@ -136,6 +181,11 @@
 1. repeal
 1. relief
 1. reluctant
+1. relentless
+1. repatriate
+1. rhetoric
+1. regime
+1. repression
 
 ## S
 
@@ -157,12 +207,31 @@
 
 9. skeptical
 
+10. suspect
+
+11. subsidize
+
+12. surreal
+
+13. skew
+
+14. spree
+
+15. sap
+
+16. spike
+
+17. swell
+
 ## T
 
 1. tackle
 1. tinder
 1. turn on
 1. take over
+1. thrive
+1. volatility
+1. tactic
 
 ## U
 
@@ -171,12 +240,17 @@
 1. vicissitude
 2. virtual
 3. violation
+4. vigilant
+5. vibe
 
 ## W
 
 1. wobble
+1. wane
 
 ## X
+
+1. xenophobia
 
 ## Y
 
