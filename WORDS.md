@@ -44,6 +44,10 @@
 16. cumulative
 17. curb
 18. cocktail
+19. craft
+20. conducive
+21. chameleon
+22. concentrate
 
 ## D
 
@@ -61,7 +65,9 @@
 12. debasement
 13. deterioration
 14. dismantle
-15. dsiperse
+15. disperse
+16. deviate
+17. dramatic
 
 ## E
 
@@ -85,6 +91,7 @@
 4. finalize
 5. firebrand
 6. fluctuate
+7. fertility
 
 ## G
 
@@ -112,7 +119,15 @@
 
 5. ignite
 
+6. inauguration
+
+7. impend
+
+8. ingot
+
 ## J
+
+1. journalism
 
 ## K
 
@@ -130,6 +145,7 @@
 5. March
 6. momentum
 7. moderation
+8. magnitude
 
 ## N
 
@@ -137,6 +153,7 @@
 
 1. omniscient
 1. oblivion
+1. opportunistic
 
 ## P
 
@@ -166,13 +183,21 @@
 
 13. populism
 
-14. pupulist
+14. populist
 
 15. pull off
 
 16. pendulum
 
 17. progressive
+
+18. pace
+
+19. plead
+
+20. pessimistic
+
+21. perception
 
 ## Q
 
@@ -223,6 +248,8 @@
 
 17. swell
 
+18. spread
+
 ## T
 
 1. tackle
@@ -232,6 +259,8 @@
 1. thrive
 1. volatility
 1. tactic
+1. turbulence
+1. toxic
 
 ## U
 
