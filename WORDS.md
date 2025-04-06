@@ -14,6 +14,9 @@
 10. abolish
 11. age
 12. apologist
+13. abate
+14. absurd
+15. abuse
 
 ## B
 
@@ -23,6 +26,8 @@
 1. bureaucrat
 1. bureaucracy
 1. brink
+1. boundary
+1. budget
 
 ## C
 
@@ -48,6 +53,15 @@
 20. conducive
 21. chameleon
 22. concentrate
+23. concept
+24. compound
+25. crude
+26. chaotic
+27. compel
+28. case
+29. confiscate
+30. competent
+31. crappy
 
 ## D
 
@@ -68,6 +82,9 @@
 15. disperse
 16. deviate
 17. dramatic
+18. depress
+19. deplete
+20. dynamic
 
 ## E
 
@@ -83,6 +100,14 @@
 
 6. ecstatic
 
+7. extinguish
+
+8. ensue
+
+9. eyelash
+
+10. envy
+
 ## F
 
 1. faction
@@ -92,6 +117,13 @@
 5. firebrand
 6. fluctuate
 7. fertility
+8. flock
+9. formation
+10. frenetic
+11. fraud
+12. float
+13. flaky
+14. facial
 
 ## G
 
@@ -100,12 +132,17 @@
 1. gasket
 1. goofy
 1. grinding
+1. grind
+1. gossip
 
 ## H
 
 1. hilarious
 1. historic
 1. haywire
+1. hierarchy
+1. harsh
+1. hunt
 
 ## I
 
@@ -125,9 +162,16 @@
 
 8. ingot
 
+9. immediate
+
+10. ironic
+
 ## J
 
 1. journalism
+1. jab
+1. justify
+1. juncture
 
 ## K
 
@@ -135,6 +179,11 @@
 
 1. livestock
 2. lobotomy
+3. legislature
+4. legitimate
+5. loose
+6. leash
+7. litany
 
 ## M
 
@@ -146,6 +195,7 @@
 6. momentum
 7. moderation
 8. magnitude
+9. magnification
 
 ## N
 
@@ -154,6 +204,8 @@
 1. omniscient
 1. oblivion
 1. opportunistic
+1. obsess
+1. outrage
 
 ## P
 
@@ -199,6 +251,22 @@
 
 21. perception
 
+22. ponder
+
+23. primary
+
+24. preliminary
+
+25. perspective
+
+26. pushover
+
+27. peculiar
+
+28. punitive
+
+29. provision
+
 ## Q
 
 ## R
@@ -211,6 +279,13 @@
 1. rhetoric
 1. regime
 1. repression
+1. reserve
+1. retaliate
+1. redeem
+1. rally
+1. rare
+1. realistic
+1. resort
 
 ## S
 
@@ -250,6 +325,20 @@
 
 18. spread
 
+19. surpass
+
+20. stagnation
+
+21. space
+
+22. stray
+
+23. step up
+
+24. stumble
+
+25. stealth
+
 ## T
 
 1. tackle
@@ -261,6 +350,12 @@
 1. tactic
 1. turbulence
 1. toxic
+1. trophy
+1. troll
+1. triangle
+1. tariff
+1. tyrant
+1. trifle
 
 ## U
 
@@ -271,11 +366,14 @@
 3. violation
 4. vigilant
 5. vibe
+6. viral
 
 ## W
 
 1. wobble
 1. wane
+1. wedge
+1. warehouse
 
 ## X
 
